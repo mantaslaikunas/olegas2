@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /privatumo-politika.txt
+Sitemap: https://olegas.fun/sitemap.xml
